@@ -12,4 +12,5 @@ identifier,Source Identifier,,
 type,Type,
 format,Format,
 rights,Rights,
+arbitrary,Arbitrary,
 rightsstatement,Rights Statement,,true
