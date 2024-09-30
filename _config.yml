@@ -52,7 +52,7 @@ organization-logo-banner: https://www.lib.umd.edu/sites/default/files/2021-06/lo
 # ROBOTS EXCLUDE
 #
 # set noindex to true if you do NOT want Google to index your site
-# noindex: true 
+noindex: true
 
 ##########
 # BUILD SETTINGS 
