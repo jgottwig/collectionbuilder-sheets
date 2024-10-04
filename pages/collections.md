@@ -14,8 +14,6 @@ All of the materials for Persistent Vision are drawn from 17 individual collecti
 
 ## Chris Baronner digital collection on D.C. punk
 
-JMG test oct4:8:06a
-
 Chris Baronner (b. 1976) is an American concert promoter, talent buyer, booking agent, photographer and musician. The Chris Baronner digital collection on D.C. Punk contains items that span the period of 1982 to 2018; the bulk of the material dates from 1994 to 2000 when Baronner was promoting shows in State College, Pennsylvania and touring the United States with his band, Ethel Meserve. The collection contains fliers for D.C.-related bands, posters used to promote D.C. record label releases and band tours, concert photographs taken by Baronner, and ephemera related to D.C. punk culture.
 
 
